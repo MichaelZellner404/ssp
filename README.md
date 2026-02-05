@@ -1,0 +1,2 @@
+# ssp
+Ein smarter Lernplaner
